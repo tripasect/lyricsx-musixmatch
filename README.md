@@ -9,4 +9,4 @@ https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/968cfe2a-0307-41
 - SpotiPy
 - nowplaying-cli-1.1.0
 - Syrics
-- Alfred (Optional: Only if you want to run the script with a hotkey or a keyword.
+- Alfred (Optional: Only if you want to run the script with a hotkey or a keyword.)
