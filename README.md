@@ -9,7 +9,6 @@ https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/968cfe2a-0307-41
 https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/b35c1385-b667-4d5d-b8c5-61b2093089db
 
 
-
 # Requirements
 - LyricsX
 - SpotiPy
