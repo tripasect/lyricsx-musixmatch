@@ -4,7 +4,7 @@ Automatically find and download the lyrics of your current offline playing song 
 # Screenshots
 https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/968cfe2a-0307-41d4-a631-90fbf39afbb8
 
-**Requirements:<br>**
+# Requirements
 - LyricsX
 - SpotiPy
 - nowplaying-cli-1.1.0
