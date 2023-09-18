@@ -1,4 +1,4 @@
-# lyricsx-musixmatch
+# Lyricsx-Musixmatch
 Automatically find and download the lyrics of your current offline playing song from Spotify-Musixmatch and display it with LyricsX. Currently works only on Mac OS.<br>
 <div align="left">
   <img src="https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/89e9df09-f745-4c89-9e07-eb78dee401ef" alt="Untitled" width="100px">
@@ -25,3 +25,5 @@ It reads your current playing song using 'nowplaying-cli-1.1.0', searches for it
 # The 'background-daemon.py' file
 Run ```nohup python3 background-daemon.py``` to have it running in the background. It repeatedly listens if you've changed your current playing song and if it changes, it launches the fetch-lyrics-from-musixmatch.command file to fetch its lyrics. If it doesn't, it keeps listening until you stop listening to any music for 4 minutes, in that case it automatically breaks its loop and exits. Make sure to run it again in your next listening session. Add an Alfred workflow for convenience.
 
+# Alfred workflow
+My personal Alfred workflow is appended. It needs a bit of configuring on your side. Note that in it, ```daemon.py``` points to that same ```background-daemon.py``` file.
