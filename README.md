@@ -26,4 +26,4 @@ It reads your current playing song using 'nowplaying-cli-1.1.0', searches for it
 Run ```nohup python3 background-daemon.py``` to have it running in the background. It repeatedly listens if you've changed your current playing song and if it changes, it launches the fetch-lyrics-from-musixmatch.command file to fetch its lyrics. If it doesn't, it keeps listening until you stop listening to any music for 4 minutes, in that case it automatically breaks its loop and exits. Make sure to run it again in your next listening session. Add an Alfred workflow for convenience.
 
 # Alfred workflow
-My personal Alfred workflow is appended. It needs a bit of configuring on your side. Note that in it, ```daemon.py``` points to that same ```background-daemon.py``` file.
+[My personal Alfred workflow](https://github.com/tripasect/lyricsx-musixmatch/blob/main/LyricsX-Musixmatch%20Fetch%20Lyrics.alfredworkflow) is appended. It needs a bit of configuring on your side. Note that in it, ```daemon.py``` points to that same ```background-daemon.py``` file.
