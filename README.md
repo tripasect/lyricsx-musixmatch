@@ -14,7 +14,7 @@ https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/b35c1385-b667-4d
 # Requirements
 - [LyricsX](https://github.com/ddddxxx/LyricsX)
 - [SpotiPy](https://github.com/spotipy-dev/spotipy)
-- [nowplaying-cli-1.1.0](https://github.com/kirtan-shah/nowplaying-cli)
+- [nowplaying-cli](https://github.com/kirtan-shah/nowplaying-cli)
 - [Syrics](https://github.com/akashrchandran/syrics)
 - [Alfred ](https://www.alfredapp.com/)(Optional: Only if you want to run the script with a hotkey or a keyword.)
 
