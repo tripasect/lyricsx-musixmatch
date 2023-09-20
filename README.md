@@ -16,7 +16,7 @@ https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/b35c1385-b667-4d
 - [SpotiPy](https://github.com/spotipy-dev/spotipy)
 - [nowplaying-cli-1.1.0](https://github.com/kirtan-shah/nowplaying-cli)
 - [Syrics](https://github.com/akashrchandran/syrics)
-- [Alfred 5](Optional: Only if you want to run the script with a hotkey or a keyword.)(https://www.alfredapp.com/)
+- [Alfred ](https://www.alfredapp.com/)(Optional: Only if you want to run the script with a hotkey or a keyword.)
 
 # Installation
 - Make sure you have LyricsX, SpotiPy and Syrics installed. Modify the .command file to add your client_id, client_secret and the path to nowplaying-cli-1.1.0.command.
