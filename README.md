@@ -27,3 +27,6 @@ Run ```nohup python3 background-daemon.py``` to have it running in the backgroun
 
 # Alfred workflow
 [My personal Alfred workflow](https://github.com/tripasect/lyricsx-musixmatch/blob/main/LyricsX-Musixmatch%20Fetch%20Lyrics.alfredworkflow) is appended. It needs a bit of configuring on your side. Note that in it, ```daemon.py``` points to that same ```background-daemon.py``` file.
+
+<img width="1373" alt="Screenshot 2023-10-12 at 16 00 12" src="https://github.com/tripasect/lyricsx-musixmatch/assets/59469654/18a0b744-62c2-405a-9c23-03ad21c82eb1">
+
